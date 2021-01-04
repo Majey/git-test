@@ -1,0 +1,24 @@
+{
+  "name": "git-test",
+  "version": "1.0.0",
+  "description": "This is a test directory to learn git and npm",
+  "main": "index.html",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Majey/git-test.git"
+  },
+  "author": "KEVIN ERICK",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Majey/git-test/issues"
+  },
+  "homepage": "https://github.com/Majey/git-test#readme",
+  "devDependencies": {
+    "global": "^4.4.0"
+  }
+}
